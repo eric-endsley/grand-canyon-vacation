@@ -5,3 +5,11 @@
 .price {
   color:red;
 }
+
+.figure-img {
+  float: left;
+}
+
+.blockquote {
+  padding-left: 430px;
+}
